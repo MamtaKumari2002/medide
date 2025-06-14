@@ -33,49 +33,49 @@ const Navbar = () => {
           <ul className="navLists flex">
             {/* <ul className="navLists"> */}
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/home" className="navLink">
                 Home
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/packages" className="navLink">
                 Packages
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/appointment" className="navLink">
                 Appointment
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/about" className="navLink">
                 About
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/pages" className="navLink">
                 Pages
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/news" className="navLink">
                 News
               </a>
             </li>
 
             <li className="navItem">
-              <a href="#" className="navLink">
+              <a href="/contact" className="navLink">
                 Contact
               </a>
             </li>
 
             <button className="btn">
-              <a href="#">BOOK NOW</a>
+              <a href="/book">BOOK NOW</a>
             </button>
           </ul>
 
