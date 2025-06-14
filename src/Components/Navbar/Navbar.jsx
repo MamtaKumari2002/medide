@@ -22,7 +22,7 @@ const Navbar = () => {
     <section className="navBarSection">
       <header className="header flex">
         <div class="logoDiv">
-          <a href="#" className="logo flex">
+          <a href="/medide" className="logo flex">
             <h1>
               <MdLocalHospital className="icon" /> MEDIDE
             </h1>
